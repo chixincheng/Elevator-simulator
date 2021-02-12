@@ -6,9 +6,7 @@
  * lastly it contains a Request object showing the request that is being handled
  * 
  * @author
- *      XinCheng Chi, SBU ID#：111919385,Recition R30
- * Assignment:
- *      Homework #3 for CSE 214, Summer 2020
+ *      XinCheng Chi
  * Date:
  *      July 23,2020
  */
